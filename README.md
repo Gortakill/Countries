@@ -4,10 +4,10 @@ This application allows users to explore detailed information about countries ar
 
 # Tech stack
     
-    -Next
-    -Nest
-    -Axios
-    -Tailwind
+    Next
+    Nest
+    Axios
+    Tailwind
 
 # Demo
 
