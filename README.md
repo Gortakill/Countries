@@ -14,4 +14,4 @@ This application allows users to explore detailed information about countries ar
 
 # Demo
 
-    https://countries-ift1.vercel.app/
+https://countries-ift1.vercel.app/
